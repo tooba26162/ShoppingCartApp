@@ -1,0 +1,7 @@
+C:\Users\Pakistan Traders\source\repos\shoppingcartapp\shoppingcartapp\bin\Debug\shoppingcartapp.exe.config
+C:\Users\Pakistan Traders\source\repos\shoppingcartapp\shoppingcartapp\bin\Debug\shoppingcartapp.exe
+C:\Users\Pakistan Traders\source\repos\shoppingcartapp\shoppingcartapp\bin\Debug\shoppingcartapp.pdb
+C:\Users\Pakistan Traders\source\repos\shoppingcartapp\shoppingcartapp\obj\Debug\shoppingcartapp.csproj.AssemblyReference.cache
+C:\Users\Pakistan Traders\source\repos\shoppingcartapp\shoppingcartapp\obj\Debug\shoppingcartapp.csproj.CoreCompileInputs.cache
+C:\Users\Pakistan Traders\source\repos\shoppingcartapp\shoppingcartapp\obj\Debug\shoppingcartapp.exe
+C:\Users\Pakistan Traders\source\repos\shoppingcartapp\shoppingcartapp\obj\Debug\shoppingcartapp.pdb
